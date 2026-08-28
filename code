@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="id">
+    <head>
+        <meta charset="UTF-8">
+        <meta name ="viewport" content="width=device-width,initial-scale=1.0">
+        <title>website sederhana</title>
+<link rel="stylesheet" href="style.css">
+        <style>
+            * {margin: 0;
+               padding: 0;
+               box-sizing: border-box;
+            }
+
+            body {
+                font-family: Arial,sans-serif;
+                background-color: #f4f4f4;
+                color: #333;
+            }
+        </style>
+    </head>
+      
+    <body>
+        <header>
+            <h1>website saya</h1>
+
+            <nav>
+                <a href="#">home</a>
+                <a href="#">tentang</a>
+                <a href="#">kontak</a>
+            </nav>
+        </header>
+        
+        <main>
+            <h2>selamat datang</h2>
+            <p>ini adalah combo kazuya tekken 6 maks damage</p>
+
+
+        </main>
+        <video autoplay muted loop playsinline width="400" height="300">
+            <source  src="c:\Users\sefta\Videos\Captures\Captures\PPSSPP v1.20.4 - ULES01376 _ TEKKEN 6 2026-07-23 16-35-05.mp4" type="video/mp4">          
+
+        </video>
+         
+        <footer>
+            <p>&copy; 2026 website gaming.all rights reserved</p>
+        </footer>
+    </body>
+</html>
